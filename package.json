@@ -28,7 +28,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href https://rayyada.github.io/Angular-Tutorial && angular-cli-ghpages --branch gh-pages"
+    "deploy": "ng build --prod --base-href /https://rayyada.github.io/Angular-Tutorial/ && angular-cli-ghpages --branch gh-pages"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.0-next.1",
