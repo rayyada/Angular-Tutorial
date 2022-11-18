@@ -31,7 +31,7 @@
     "deploy": "ng build --prod --base-href /https://rayyada.github.io/Angular-Tutorial/ && angular-cli-ghpages --branch gh-pages"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.803.0-next.1",
+    "@angular-devkit/build-angular": "~15.0.0",
     "@angular/cli": "^8.2.1",
     "@angular/compiler-cli": "^8.2.1",
     "@angular/language-service": "^8.2.1",
